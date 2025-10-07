@@ -1,0 +1,1 @@
+Use LOGO Hotel Configurator 64 bit Installer if you have a 64 bit Excel and LOGO Hotel Configurator 32 bit Installer if you have a 32 bit Excel.
