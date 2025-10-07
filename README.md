@@ -26,10 +26,13 @@ To run the demo, you will need:
 1. **Siemens LOGO! Base Module** (version 8.3 or higher)  
    - Chameleon assumes 24 V DC with relay outputs, no screen.  
    - For other versions, please consult the Siemens LOGO! technical manual for installation and connection details.
-2. **Airzone Aidoo KNX Gateway**
-3. **ETS Software**
-4. **Comfort Click Configuration and Server Software**
+2. **CMK2000 LOGO! / KNX Gateway**
+3. **Airzone Aidoo KNX Gateway**
+4. **LOGO Softcomfort** (version 8.3 or higher) 
+5. **ETS Software** (ETS5 or ETS6)
+6. **Comfort Click Configuration and Server Software**
 
+> **Note:** It is not necessary to have all hardware components to test just the LOGO! functionality but it is recommended if you want to try the full system functionalities.
 ---
 
 ## How to Use
@@ -38,6 +41,14 @@ To run the demo, you will need:
 2. Follow the project steps as outlined in the guides.
 
 All guides are located in the `Documentation` folder.
+
+---
+
+## Additional Information
+
+Visit our microsite for additonal information, instruction videos, documents and more
+
+https://owl-companion-haas.glide.page/
 
 ---
 
